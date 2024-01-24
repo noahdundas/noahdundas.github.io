@@ -2417,6 +2417,7 @@ input, select, textarea {
 
 	#gallery-items {
 		text-align: center;
+		width: 100%;
 		align-self: end;
 	}
 /* Icons */
